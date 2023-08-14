@@ -1,47 +1,8 @@
-# AI Chat GPT-3 example
+As part of the project, it has been developed an assistant using GitHub and the Vercel platform to streamline order management, for family-owned traditional takeaway restaurants. You can find the link to the system and the GitHub files below. Additionally, it has been included the GitHub files as a zip file in PDF format on Moodle. To begin with, it has been created a repository on GitHub to initiate the project. It has been uploaded all codes, files, and project related documents to this repository. Throughout the development phase any changes made have been continuously updated on GitHub. It has been connected our GitHub repository to Vercel and configured live deployment settings. This means that every update it has been made on GitHub is automatically reflected live on Vercel. The web application for the project is now accessible, through Vercel. It has been integrated OpenAIs API into the system allowing intelligent agents to handle customer orders by identifying them. These intelligent agents efficiently manage order priorities and inventory levels. Customers receive estimated delivery times and personalized communications from the system. It has been conducted testing of the system. Incorporated improvements based on valuable feedback received. Additionally, it has been made code updates to introduce features or optimize existing processes. The project has been completed successfully. It is now ready to be used. It has automated the order management processes of family businesses making them more efficient. As a result, customers now have an improved experience and errors and delays, in the processes have been significantly reduced.
 
-This example shows how to implement a simple chat bot using Next.js, API Routes, and [OpenAI ChatGPT API](https://beta.openai.com/docs/api-reference/completions/create).
 
-### Components
 
-- Next.js
-- OpenAI API (ChatGPT) - streaming
-- API Routes (Edge runtime) - streaming
+GitHub Repository: https://github.com/ErdalOzcelik297/ai-chatgpt45
 
-## How to Use
+Vercel Platform: https://ai-chatgpt45.vercel.app
 
-You can choose from one of the following two methods to use this repository:
-
-### One-Click Deploy
-
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=vercel-examples):
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt&project-name=ai-chatgpt&repository-name=ai-chatgpt&env=OPENAI_API_KEY)
-
-### Clone and Deploy
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [pnpm](https://pnpm.io/installation) to bootstrap the example:
-
-```bash
-pnpm create next-app --example https://github.com/vercel/examples/tree/main/solutions/ai-chatgpt
-```
-
-#### Set up environment variables
-
-Rename [`.env.example`](.env.example) to `.env.local`:
-
-```bash
-cp .env.example .env.local
-```
-
-then, update `OPENAI_API_KEY` with your [OpenAI](https://beta.openai.com/account/api-keys) secret key.
-
-Next, run Next.js in development mode:
-
-```bash
-pnpm dev
-```
-
-The app should be up and running at http://localhost:3000.
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=edge-middleware-eap) ([Documentation](https://nextjs.org/docs/deployment)).
