@@ -7,7 +7,7 @@ function Home() {
       <section className="flex flex-col gap-6">
         <Text variant="h1">Smith`s Takeaway</Text>
         <Text className="text-zinc-600">
-          This service has been created as a final project forIntelligent Agents and Process Automation (H9IAPI) course to automize Smith`s Takeaway Restaurants order management system.
+          This service has been developed as a final project for the Intelligent Agents and Process Automation (H9IAPI) course to automate the order management system for Smiths Takeaway Restaurant.
         </Text>
       </section>
 
