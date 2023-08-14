@@ -1,8 +1,7 @@
 As part of the project, it has been developed an assistant using GitHub and the Vercel platform to streamline order management, for family-owned traditional takeaway restaurants. You can find the link to the system and the GitHub files below. Additionally, it has been included the GitHub files as a zip file in PDF format on Moodle. To begin with, it has been created a repository on GitHub to initiate the project. It has been uploaded all codes, files, and project related documents to this repository. Throughout the development phase any changes made have been continuously updated on GitHub. It has been connected our GitHub repository to Vercel and configured live deployment settings. This means that every update it has been made on GitHub is automatically reflected live on Vercel. The web application for the project is now accessible, through Vercel. It has been integrated OpenAIs API into the system allowing intelligent agents to handle customer orders by identifying them. These intelligent agents efficiently manage order priorities and inventory levels. Customers receive estimated delivery times and personalized communications from the system. It has been conducted testing of the system. Incorporated improvements based on valuable feedback received. Additionally, it has been made code updates to introduce features or optimize existing processes. The project has been completed successfully. It is now ready to be used. It has automated the order management processes of family businesses making them more efficient. As a result, customers now have an improved experience and errors and delays, in the processes have been significantly reduced.
 
 
-
-GitHub Repository: https://github.com/ErdalOzcelik297/ai-chatgpt45
+GitHub Repository: https://github.com/ErdalOzcelik297/ai-chatgpt45.git
 
 Vercel Platform: https://ai-chatgpt45.vercel.app
 
